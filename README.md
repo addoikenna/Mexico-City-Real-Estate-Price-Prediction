@@ -11,18 +11,18 @@ The notebook also includes a section on communicating the results of the analysi
 ## Predicting Apartment Price with Location (Longitude and Latitude)
 The **predict_price_with_location** notebook contains code and analysis for predicting apartment prices in Mexico City using location data.
 
-<p>Price of apartment in USD<p/>
-<p>Location: Latitude and longitude coordinates<p/>
+1. Price of apartment in USD
+2. Location: Latitude and longitude coordinates
 #### **Analysis**
 The following analyses are included in the notebook:
-Exploratory data analysis through data visualization
-Training a baseline mean price model
-Building a regression pipeline with imputation and model
-Evaluating model performance on training and test sets
+1. Exploratory data analysis through data visualization
+2. Training a baseline mean price model
+3. Building a regression pipeline with imputation and model
+4. Evaluating model performance on training and test sets
 #### **Model**
 A linear regression pipeline is implemented with the following steps:
 1. Impute missing values using mean imputation
 2. Fit a linear regression model to predict price based on latitude and longitude
 #### **Results**
-The location features are found to not be strong predictors of apartment price
+The location features are found to not be strong predictors of apartment price.
 The model has similar performance to just predicting mean price
