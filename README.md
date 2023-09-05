@@ -51,7 +51,7 @@ The steps taken in the notebook are:
 11. Visualize Ridge feature importances
 
 #### **Key Findings**
-1. The linear model reduces the training MAE to around $15,000
+1. The linear model reduces the training MAE to around
 2. Ridge regularization further reduces overfitting
 3. The most important features are boroughs like San Ángel, Del Valle Centro, Escandón, etc.
 
