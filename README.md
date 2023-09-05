@@ -59,5 +59,5 @@ The steps taken in the notebook are:
 Some ways the model could be improved:
 1. Add more features like size, bedrooms, other amenities
 2. Try different regularization techniques
-3. Ensemble methods like random forests could help too
-4. Broaden data to more Mexican cities
+3. Ensemble methods like random forests could help too.
+4. Broaden data to more Mexican cities.
